@@ -15,23 +15,25 @@ This is the repository for:
 This  course contains the following:
 
 
-#### Cloud Computing Virtual Machines with Azure
+### Cloud Computing Virtual Machines with Azure
+
+==================
 
 * [Student registration](./Azure/starting_azure.md#student-registration)
 * [Starting with Virtual Machines](./Azure/starting_azure.md#starting-with-virtual-machines)
-+ [Create resource group](./Azure/starting_azure.md#create-resource-group)
-+ [Create virtual machine](./Azure/starting_azure.md#create-virtual-machine)
-+ [Connect to VM](./Azure/starting_azure.md#connect-to-vm)
-+ [Marketplace of  VM images](./Azure/starting_azure.md#marketplace-of--vm-images)
-+ [VM Running](./Azure/starting_azure.md#vm-running)
-+ [Show details of a VM](./Azure/starting_azure.md#show-details-of-a-vm)
-+ [Stop a VM](./Azure/starting_azure.md#stop-a-vm)
-+ [Start a VM](./Azure/starting_azure.md#start-a-vm)
-+ [Reboot a VM](./Azure/starting_azure.md#reboot-a-vm)
-+ [Delete a VM](./Azure/starting_azure.md#delete-a-vm)
-+ [VM Open Ports](./Azure/starting_azure.md#vm-open-ports)
+	+ [Create resource group](./Azure/starting_azure.md#create-resource-group)
+	+ [Create virtual machine](./Azure/starting_azure.md#create-virtual-machine)
+	+ [Connect to VM](./Azure/starting_azure.md#connect-to-vm)
+	+ [Marketplace of  VM images](./Azure/starting_azure.md#marketplace-of--vm-images)
+	+ [VM Running](./Azure/starting_azure.md#vm-running)
+	+ [Show details of a VM](./Azure/starting_azure.md#show-details-of-a-vm)
+	+ [Stop a VM](./Azure/starting_azure.md#stop-a-vm)
+	+ [Start a VM](./Azure/starting_azure.md#start-a-vm)
+	+ [Reboot a VM](./Azure/starting_azure.md#reboot-a-vm)
+	+ [Delete a VM](./Azure/starting_azure.md#delete-a-vm)
+	+ [VM Open Ports](./Azure/starting_azure.md#vm-open-ports)
 
-#### Containers with Docker 
+### Containers with Docker 
 
 - [Starting with Docker containers (Primeros pasos con contenedores en Docker)](./Docker/starting_docker.md#starting-with-docker-containers--primeros-pasos-con-contenedores-en-docker-)
 - [Table of Contents](./Docker/starting_docker.md#table-of-contents)
