@@ -10,10 +10,8 @@ January 2019
 
 This is the repository for:
 
-# Curso "Big Data I" 
+# Course "Big Data I" 
 
-
-<HR>
 
 The course contains the following:
 
