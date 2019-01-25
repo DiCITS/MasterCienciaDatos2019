@@ -1,23 +1,26 @@
 **Course 2018-2019**
 
-[Master Ciencia de Datos e Ingenería de Computadores -- University of Granada](http://ucys.ugr.es/master-propio-en-ciberseguridad/)
-
-
+[Master Ciencia de Datos e Ingenería de Computadores -- University of Granada](https://masteres.ugr.es/datcom/)
 [UGR](http://www.ugr.es) | [DICITS](http://dicits.ugr.es) | [SCI2S](http://sci2s.ugr.es) | [DECSAI](http://decsai.ugr.es)
 
-Manuel J. Parra Royón (manuelparra@decsai.ugr.es) & José. M. Benítez Sánchez (j.m.benitez@decsai.ugr.es) -- January 2019
+Manuel J. Parra Royón (manuelparra@decsai.ugr.es) & José. M. Benítez Sánchez (j.m.benitez@decsai.ugr.es)
+
+January 2019
 
 
 This is the repository for:
 
-## Curso "Big Data I" 
+# Curso "Big Data I" 
 
-This  course contains the following:
+
+<HR>
+
+The course contains the following:
 
 
 ### Cloud Computing Virtual Machines with Azure
 
-==================
+<HR>
 
 * [Student registration](./Azure/starting_azure.md#student-registration)
 * [Starting with Virtual Machines](./Azure/starting_azure.md#starting-with-virtual-machines)
@@ -33,7 +36,10 @@ This  course contains the following:
 	+ [Delete a VM](./Azure/starting_azure.md#delete-a-vm)
 	+ [VM Open Ports](./Azure/starting_azure.md#vm-open-ports)
 
+
 ### Containers with Docker 
+
+<HR>
 
 - [Starting with Docker containers (Primeros pasos con contenedores en Docker)](./Docker/starting_docker.md#starting-with-docker-containers--primeros-pasos-con-contenedores-en-docker-)
 - [Table of Contents](./Docker/starting_docker.md#table-of-contents)
